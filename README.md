@@ -1,4 +1,4 @@
-# Java Intermediate Studies
+# Golang Studies
 
 ### What I learn here?
 
